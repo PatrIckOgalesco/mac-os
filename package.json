@@ -1,9 +1,10 @@
 {
-  "homepage": "https://patrickogalesco.github.io/mac-os",
   "name": "mac-os",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://patrickogalesco.github.io/mac-os",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
